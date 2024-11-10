@@ -17,13 +17,12 @@ async def hello(client: app, message):
     buttons = [
            [
                 InlineKeyboardButton("⚡𝙾𝚆𝙽𝙴𝚁 💕⚡", url=("https://t.me/raosahab_br28")
-                InlineKeyboardButton("⚡𝙾𝚆𝙽𝙴𝚁 💕⚡", url=("https://t.me/Oy_rishu")
             ],
             [
-                InlineKeyboardButton("⚡𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💕⚡", url=("https://t.me/ajisbackk"),
+                InlineKeyboardButton("⚡𝙾𝚆𝙽𝙴𝚁 💕⚡", url=("https://t.me/Oy_rishu"),
             ],
             [
-                InlineKeyboardButton("⚡𝚂𝚄𝙿𝙿𝙾𝚁𝚃 💕⚡", url=("https://t.me/+FcfaMM88MRtkNTll"),
+                InlineKeyboardButton("⚡ᴄʜᴀɴɴᴇʟ 💕⚡", url=("https://t.me/ajisbackk"),
             ],
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
