@@ -97,7 +97,7 @@ RAID = [
     "LWDEEE",
     "PAPA KI SPEED MTCH NHI HO RHI KYA",
     "ALE ALE MELA BCHAAAA",
-    "CHUD GYA PAPA @ur_alpha_baby SEEE",
+    "CHUD GYA PAPA @ksdofficial84 SEEE",
     "KISAN KO KHODNA OR",
     "SALE RAPEKL KRDKA TERA",
     "HAHAHAAAAA",
@@ -205,13 +205,13 @@ RAID = [
 ]
 
 
-GRP = "@WORLD_ALPHA"
+GRP = "@KSD_BOT_NETWORk"
 
-GROUP = [-1002094067251]
+GROUP = [-1002067001953]
 
-VERIFIED_USERS = [6730956183]
+VERIFIED_USERS = [6283192619]
 
-Owners = "@ll_ALPHA_BABY_lll|@II_RAJA_BABU_II"
+Owners = "@ksdofficial84|@Raosahab_br28"
 
 PORN = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
