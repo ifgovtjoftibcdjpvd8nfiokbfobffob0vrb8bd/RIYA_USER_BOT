@@ -1,4 +1,4 @@
-from RISHANT import app, API_ID, API_HASH
+from RAUSHAN import app, API_ID, API_HASH
 from config import ALIVE_PIC
 from pyrogram import filters
 import os
