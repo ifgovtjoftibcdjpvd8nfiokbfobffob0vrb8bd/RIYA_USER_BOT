@@ -11,7 +11,7 @@ from RAUSHAN.modules.help import add_command_help
 emojis = {
     "moon": list("🌗🌘🌑🌒🌓🌔🌕🌖"),
     "clock": list("🕙🕘🕗🕖🕕🕔🕓🕒🕑🕐🕛"),
-    "thunder": list("☀️🌤️⛅🌥️☁️🌩️🌧️⛈️⚡🌩️🌧️🌦️🌥️⛅🌤️☀️"),
+    "hunter": list("☀️🌤️⛅🌥️☁️🌩️🌧️⛈️⚡🌩️🌧️🌦️🌥️⛅🌤️☀️"),
     "earth": list("🌏🌍🌎🌎🌍🌏🌍🌎"),
     "heart": list("❤️🧡💛💚💙💜🖤"),
 }
@@ -50,7 +50,7 @@ async def special_emojis(bot: Client, message: Message):
 special_emoji_help = [
     [".moon", "Cycles all the phases of the moon emojis."],
     [".clock", "Cycles all the phases of the clock emojis."],
-    [".thunder", "Cycles thunder."],
+    [".hunter", "Cycles hunter."],
     [".heart", "Cycles heart emojis."],
     [".earth `or` .globe", "Make the world go round."],
 ]
