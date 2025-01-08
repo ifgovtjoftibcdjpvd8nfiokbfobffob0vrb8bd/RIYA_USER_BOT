@@ -13,12 +13,12 @@ SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7668520999").split()))
 OWNER_ID = int(getenv("OWNER_ID"))
 MONGO_URL = getenv("MONGO_URL")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-ALIVE_PIC = getenv("ALIVE_PIC", "https://files.catbox.moe/a541k5.jpg")
+ALIVE_PIC = getenv("ALIVE_PIC", "https://files.catbox.moe/2731lh.jpg")
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/rishant390/ALPHA_USERBOT")
+REPO_URL = getenv("REPO_URL", "https://github.com/ifgovtjoftibcdjpvd8nfiokbfobffob0vrb8bd/RIYA_USER_BOT")
 BRANCH = getenv("BRANCH", "main") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
