@@ -5,7 +5,7 @@ import os
 import sys
 import asyncio
 from random import choice
-OWNER_ID = 6283192619
+OWNER_ID = 8009369344
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from cache.data import *
@@ -27,7 +27,7 @@ async def dmraid(xspam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of ʟᴇɢᴇɴᴅ."
+                text = f"Abe Lawde that guy part of ʜᴜɴᴛᴇʀ."
                 await e.reply_text(text)
           else:
               counts = int(RAUSHAN[0])
@@ -45,7 +45,7 @@ async def dmraid(xspam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of ʟᴇɢᴇɴᴅ."
+                text = f"Abe Lawde that guy part of ʜᴜɴᴛᴇʀ."
                 await e.reply_text(text)
           else:
               counts = int(RAUSHAN[0])
@@ -70,7 +70,7 @@ async def dmspam(spam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of ʟᴇɢᴇɴᴅ."
+                text = f"Abe Lawde that guy part of ʜᴜɴᴛᴇʀ."
                 await e.reply_text(text)
           else:
               counts = int(RAUSHAN[0])
@@ -86,7 +86,7 @@ async def dmspam(spam: Client, e: Message):
                 text = f"Chal Chal baap Ko mat sikha"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
-                text = f"Abe Lawde that guy part of ʟᴇɢᴇɴᴅ."
+                text = f"Abe Lawde that guy part of ʜᴜɴᴛᴇʀ."
                 await e.reply_text(text)
           else:
               counts = int(text[0])
