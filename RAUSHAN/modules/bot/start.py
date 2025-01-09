@@ -9,7 +9,8 @@ from pyrogram import *
 from pyrogram.types import * 
 
 PHONE_NUMBER_TEXT = (
-    " ✦𝗛𝗘𝗬..! 𝗠𝗔𝗦𝗧𝗘𝗥..!!👋!\n\n✦ 𝗜'𝗠 𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗟𝗘𝗚𝗘𝗡𝗗 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗘𝗥?\n\n‣ 𝗜 𝗖𝗔𝗡 𝗛𝗘𝗟𝗣 𝗬𝗢𝗨 𝗧𝗢 𝗛𝗢𝗦𝗧 𝗬𝗢𝗨𝗥 𝗟𝗘𝗙𝗧 𝗖𝗟𝗜𝗘𝗡𝗧𝗦.\n\n‣ 𝗛𝗘𝗟𝗣𝗘𝗥 ✦: [sᴇssɪᴏɴ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴇʀ ʀᴏʙᴏᴛ](https://t.me/KsdStringSessionbot) \n\n‣ 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗦𝗣𝗘𝗖𝗜𝗔𝗟𝗟𝗬 𝗙𝗢𝗥 𝗚𝗔𝗡𝗗𝗨 𝗣𝗘𝗢𝗣𝗟𝗘'𝗦(ʟᴀᴢʏ)\n\n‣ 𝗡𝗢𝗪 /clone {send your PyroGram ᴠ2 String Session}"
+    "[𝐑ɪʏᴀ 𝐔sᴇʀ 𝐁ᴏᴛ](https://t.me/Riya_user_robot) ᴛʜᴇ ꜱᴜᴘᴇʀғᴀꜱᴛ ᴜsᴇʀʙᴏᴛ ⚡\n\n➪ ʙᴇsᴛ sᴛɪᴄᴋᴇʀs , ᴀɴɪᴍᴀᴛɪᴏɴs \n➪ ʙᴇsᴛ sᴘᴀᴍ ᴍᴇssᴀɢᴇs \n ➪ ʙᴇsᴛ ʀᴀɪᴅ ᴍᴇssᴀɢᴇs \n ➪ ʙᴇsᴛ ʀᴇᴘʟʏ ʀᴀɪᴅ ᴍᴇssᴀɢᴇs \n ➪ ᴍᴀᴋᴇ ʏᴏᴜʀ ɪᴅ-ᴜsᴇʀʙᴏᴛ ʙʏ /clone [ send your PyroGram ᴠ2 String Session ] \n\n 
+๏ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : 270\n๏ ᴛᴏᴛᴀʟ ᴀᴄᴛɪᴠᴇ ᴜsᴇʀs : 215\n๏ ᴜᴘᴛɪᴍᴇ » 1h:23m:19s\n\n╔═════════════════╗\n║ ➻ sᴛʀɪɴɢ ʙᴏᴛ ➪ ᴄʟɪᴄᴋ ʜᴇʀᴇ \n║ ➻ ᴅᴇᴠᴇʟᴏᴘᴇʀ ➪ ʜᴜɴᴛᴇʀ xᴅ \n╚═════════════════╝"
 )
 
 @app.on_message(filters.command("start"))
