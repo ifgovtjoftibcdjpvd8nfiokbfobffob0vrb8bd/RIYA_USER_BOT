@@ -9,7 +9,7 @@ from pyrogram import *
 from pyrogram.types import * 
 
 PHONE_NUMBER_TEXT = (
-    "[𝐑ɪʏᴀ 𝐔sᴇʀ 𝐁ᴏᴛ](https://t.me/Riya_user_robot) ᴛʜᴇ ꜱᴜᴘᴇʀғᴀꜱᴛ ᴜsᴇʀʙᴏᴛ ⚡\n\n➪ ʙᴇsᴛ sᴛɪᴄᴋᴇʀs , ᴀɴɪᴍᴀᴛɪᴏɴs \n➪ ʙᴇsᴛ sᴘᴀᴍ ᴍᴇssᴀɢᴇs \n ➪ ʙᴇsᴛ ʀᴀɪᴅ ᴍᴇssᴀɢᴇs \n ➪ ʙᴇsᴛ ʀᴇᴘʟʏ ʀᴀɪᴅ ᴍᴇssᴀɢᴇs \n ➪ ᴍᴀᴋᴇ ʏᴏᴜʀ ɪᴅ-ᴜsᴇʀʙᴏᴛ ʙʏ /clone [ send your PyroGram ᴠ2 String Session ] \n\n 
+    "[𝐑ɪʏᴀ 𝐔sᴇʀ 𝐁ᴏᴛ](https://t.me/Riya_user_robot) ᴛʜᴇ ꜱᴜᴘᴇʀғᴀꜱᴛ ᴜsᴇʀʙᴏᴛ ⚡\n\n➪ ʙᴇsᴛ sᴛɪᴄᴋᴇʀs , ᴀɴɪᴍᴀᴛɪᴏɴs \n➪ ʙᴇsᴛ sᴘᴀᴍ ᴍᴇssᴀɢᴇs \n ➪ ʙᴇsᴛ ʀᴀɪᴅ ᴍᴇssᴀɢᴇs \n ➪ ʙᴇsᴛ ʀᴇᴘʟʏ ʀᴀɪᴅ ᴍᴇssᴀɢᴇs \n ➪ ᴍᴀᴋᴇ ʏᴏᴜʀ ɪᴅ-ᴜsᴇʀʙᴏᴛ ʙʏ /clone {send your PyroGram ᴠ2 String Session}\n\n 
 ๏ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : 270\n๏ ᴛᴏᴛᴀʟ ᴀᴄᴛɪᴠᴇ ᴜsᴇʀs : 215\n๏ ᴜᴘᴛɪᴍᴇ » 1h:23m:19s\n\n╔═════════════════╗\n║ ➻ sᴛʀɪɴɢ ʙᴏᴛ ➪ ᴄʟɪᴄᴋ ʜᴇʀᴇ \n║ ➻ ᴅᴇᴠᴇʟᴏᴘᴇʀ ➪ ʜᴜɴᴛᴇʀ xᴅ \n╚═════════════════╝"
 )
 
